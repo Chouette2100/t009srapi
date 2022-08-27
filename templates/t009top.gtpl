@@ -51,7 +51,7 @@
         <tr>
             <td>{{ .Room_id }}</td>
             <td>{{ GidToName .Genre_id }}</td>
-            <td><a href="https://www.showroom-live.com/r/{{ .Room_url_key }}">{{ .Main_name }}</a></td>
+            <td><a href="https://www.showroom-live.com/r/{{ .Room_url_key }}" target="_blank">{{ .Main_name }}</a></td>
             <td>{{ UnixTimeToHHMM .Started_at }}〜</td>
             <td style="text-align: right">{{ Comma .View_num }}</td>
         </tr>
