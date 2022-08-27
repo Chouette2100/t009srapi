@@ -89,13 +89,13 @@ import (
 	        └─templates
 
 	C:\Users\chouette\go\src\t009srapi>xcopy /e v0.1.0\t009srapi-0.1.0\*.*
-	v0.1.0\t007srapi-0.1.0\freebsd.bat
-	v0.1.0\t007srapi-0.1.0\freebsd.sh
-	v0.1.0\t007srapi-0.1.0\LICENSE
-	v0.1.0\t007srapi-0.1.0\README.md
-	v0.1.0\t007srapi-0.1.0\t007srapi.go
-	v0.1.0\t007srapi-0.1.0\public\index.html
-	v0.1.0\t007srapi-0.1.0\templates\top.gtpl
+	v0.1.0\t009srapi-0.1.0\freebsd.bat
+	v0.1.0\t009srapi-0.1.0\freebsd.sh
+	v0.1.0\t009srapi-0.1.0\LICENSE
+	v0.1.0\t009srapi-0.1.0\README.md
+	v0.1.0\t009srapi-0.1.0\t009srapi.go
+	v0.1.0\t009srapi-0.1.0\public\index.html
+	v0.1.0\t009srapi-0.1.0\templates\top.gtpl
 	7 File(s) copied
 
 	C:\Users\chouette\go\src\t009srapi>rmdir /s /q v0.1.0
