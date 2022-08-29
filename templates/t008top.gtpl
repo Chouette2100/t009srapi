@@ -24,7 +24,7 @@
     (外部リンク)<br>
         <a href="https://zenn.dev/">Zenn</a> - <a
             href="https://zenn.dev/chouette2100/books/d8c28f8ff426b7">SHOWROOMのAPI、その使い方とサンプルソース</a></p>
-   <div style="text-indent: 2rem;"><a href="https://chouette2100.com/">記事/ソース/CGI一覧表</a></div>
+   <div style="text-indent: 2rem;"><a href="https://chouette2100.com/">記事/ソース/CGI一覧表</a>　（証明書の期限が切れてしまっていました。2022年8月29日、有効な証明書に切り替えました）</div>
     <p>-------------------------------------------------------------</p>
     (サイト内リンク)<br>
     <div style="text-indent: 2rem;"><a href="t009top">t009:配信中ルーム一覧</a></div>
